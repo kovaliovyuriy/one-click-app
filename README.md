@@ -16,14 +16,9 @@ Features:
 
 ## Clone
 
-- git clone https://github.com/YanarAssaf/one-click-app
+- git clone https://github.com/kovaliovyuriy/one-click-app
 - chmod +x apache.sh
 - ./apache.sh
-
-## Contacts
-
-If you discover a security vulnerability within App, please send an e-mail to Yanar Assaf via [yanar@outlook.com](mailto:yanar@outlook.com).
-<p class="love">Made with :heart:</p>
 
 ## License
 
