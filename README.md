@@ -23,7 +23,7 @@ Features:
 ## Contacts
 
 If you discover a security vulnerability within App, please send an e-mail to Yanar Assaf via [yanar@outlook.com](mailto:yanar@outlook.com).
-<p class="love">Made with :heart: By Yanar</p>
+<p class="love">Made with :heart:</p>
 
 ## License
 
